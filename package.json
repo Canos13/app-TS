@@ -1,12 +1,12 @@
 {
   "name": "primer-app-ts",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mi primera app en TS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sergio Cano Martinez",
   "license": "ISC"
 }
